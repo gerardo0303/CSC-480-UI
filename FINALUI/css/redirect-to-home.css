@@ -1,0 +1,303 @@
+/* screen - redirect-to-home */
+
+.redirect-to-home {
+  align-items: flex-start;
+  background-color: var(--blue-ribbon-2);
+  display: flex;
+  flex-direction: column;
+  height: 1281px;
+  width: 1920px;
+}
+
+.redirect-to-home .overlap-group1 {
+  height: 149px;
+  position: relative;
+  width: 1920px;
+}
+
+.redirect-to-home .small-top-rectangle {
+  height: 49px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 100px;
+  width: 1920px;
+}
+
+.redirect-to-home .place {
+  left: 281px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 44px;
+  white-space: nowrap;
+}
+
+.redirect-to-home .path-1 {
+  height: 46px;
+  left: 458px;
+  object-fit: cover;
+  position: absolute;
+  top: 36px;
+  width: 603px;
+}
+
+.redirect-to-home .top-deals {
+  left: 447px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 116px;
+  white-space: nowrap;
+}
+
+.redirect-to-home .icon-search {
+  cursor: pointer;
+  height: 28px;
+  left: 1015px;
+  object-fit: cover;
+  position: absolute;
+  top: 44px;
+  width: 28px;
+}
+
+.redirect-to-home .____________________ {
+  background-color: transparent;
+  border: 0;
+  height: 35px;
+  left: 476px;
+  letter-spacing: 0;
+  line-height: 25px;
+  padding: 0;
+  position: absolute;
+  top: 41px;
+  white-space: nowrap;
+  width: 545px;
+}
+
+.redirect-to-home .overlap-group15 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 5px solid;
+  border-color: var(--black);
+  border-radius: 83.5px/82px;
+  display: flex;
+  height: 164px;
+  min-width: 167px;
+  padding: 36px 18px;
+}
+
+.redirect-to-home .overlap-group12 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 5px solid;
+  border-color: var(--black);
+  border-radius: 83.5px/82px;
+  display: flex;
+  height: 164px;
+  margin-top: 24px;
+  min-width: 167px;
+  padding: 21px 32px;
+}
+
+.redirect-to-home .overlap-group8 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 5px solid;
+  border-color: var(--black);
+  border-radius: 83.5px/82px;
+  display: flex;
+  height: 164px;
+  margin-top: 27px;
+  min-width: 167px;
+  padding: 27px 28px;
+}
+
+.redirect-to-home .overlap-group19 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 5px solid;
+  border-color: var(--black);
+  border-radius: 83.5px/82px;
+  display: flex;
+  height: 164px;
+  margin-right: 5.0px;
+  min-width: 167px;
+  padding: 18px 30px;
+}
+
+.redirect-to-home .overlap-group16 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 5px solid;
+  border-color: var(--black);
+  border-radius: 83.5px/82px;
+  display: flex;
+  height: 164px;
+  margin-right: 5.0px;
+  margin-top: 24px;
+  min-width: 167px;
+  padding: 29px 11px;
+}
+
+.redirect-to-home .overlap-group13 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 5px solid;
+  border-color: var(--black);
+  border-radius: 83.5px/82px;
+  display: flex;
+  height: 164px;
+  margin-right: 5.0px;
+  margin-top: 19px;
+  min-width: 167px;
+  padding: 24px 33px;
+}
+
+.redirect-to-home .overlap-group18 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 5px solid;
+  border-color: var(--black);
+  border-radius: 83.5px/82px;
+  display: flex;
+  height: 164px;
+  margin-left: 1.0px;
+  min-width: 167px;
+  padding: 24px 25px;
+}
+
+.redirect-to-home .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 5px solid;
+  border-color: var(--black);
+  border-radius: 83.5px/82px;
+  display: flex;
+  height: 164px;
+  margin-left: 1.0px;
+  margin-top: 27px;
+  min-width: 167px;
+  padding: 40px 14px;
+}
+
+.redirect-to-home .overlap-group10 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 5px solid;
+  border-color: var(--black);
+  border-radius: 83.5px/82px;
+  display: flex;
+  height: 164px;
+  margin-left: 1.0px;
+  margin-top: 19px;
+  min-width: 167px;
+  padding: 36px 14px;
+}
+
+.redirect-to-home .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 5px solid;
+  border-color: var(--black);
+  border-radius: 83.5px/82px;
+  display: flex;
+  height: 164px;
+  margin-right: 8.0px;
+  min-width: 167px;
+  padding: 18px 28px;
+}
+
+.redirect-to-home .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 5px solid;
+  border-color: var(--black);
+  border-radius: 83.5px/82px;
+  display: flex;
+  height: 164px;
+  margin-right: 8.0px;
+  margin-top: 24px;
+  min-width: 167px;
+  padding: 47px 10px;
+}
+
+.redirect-to-home .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 5px solid;
+  border-color: var(--black);
+  border-radius: 83.5px/82px;
+  display: flex;
+  height: 164px;
+  margin-right: 8.0px;
+  margin-top: 19px;
+  min-width: 167px;
+  padding: 17px 33px;
+}
+
+.redirect-to-home .overlap-group9 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 5px solid;
+  border-color: var(--black);
+  border-radius: 83.5px/82px;
+  display: flex;
+  height: 164px;
+  margin-right: 2.0px;
+  min-width: 167px;
+  padding: 18px 28px;
+}
+
+.redirect-to-home .overlap-group7 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 5px solid;
+  border-color: var(--black);
+  border-radius: 83.5px/82px;
+  display: flex;
+  height: 164px;
+  margin-right: 2.0px;
+  margin-top: 19px;
+  min-width: 167px;
+  padding: 24px 27px;
+}
+
+.redirect-to-home .overlap-group17 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 5px solid;
+  border-color: var(--black);
+  border-radius: 83.5px/82px;
+  display: flex;
+  height: 164px;
+  min-width: 167px;
+  padding: 37px 14px;
+}
+
+.redirect-to-home .overlap-group6 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 5px solid;
+  border-color: var(--black);
+  border-radius: 83.5px/82px;
+  display: flex;
+  height: 164px;
+  margin-top: 33px;
+  min-width: 167px;
+  padding: 15px 32px;
+}
+
+.redirect-to-home .overlap-group14 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 5px solid;
+  border-color: var(--black);
+  border-radius: 83.5px/82px;
+  display: flex;
+  height: 164px;
+  margin-top: 36px;
+  min-width: 167px;
+  padding: 24px 28px;
+}
