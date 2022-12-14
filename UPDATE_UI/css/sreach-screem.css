@@ -1,0 +1,79 @@
+/* screen - sreach-screem */
+
+.sreach-screem {
+  align-items: flex-start;
+  background-color: var(--blue-ribbon-2);
+  display: flex;
+  flex-direction: column;
+  height: 1281px;
+  width: 1920px;
+}
+
+.sreach-screem .overlap-group {
+  height: 149px;
+  position: relative;
+  width: 1920px;
+}
+
+.sreach-screem .small-top-rectangle {
+  background-color: #ffcc00d9;
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 100px;
+  width: 1920px;
+}
+
+.sreach-screem .top-deals {
+  left: 447px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 116px;
+  white-space: nowrap;
+}
+
+.sreach-screem .overlap-group1 {
+  background-image: url(../img/mask-group-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 932px;
+  position: relative;
+  width: 1920px;
+}
+
+.sreach-screem .path-1 {
+  height: 71px;
+  left: 644px;
+  object-fit: cover;
+  position: absolute;
+  top: 366px;
+  width: 632px;
+}
+
+.sreach-screem .icon-search {
+  cursor: pointer;
+  height: 28px;
+  left: 1230px;
+  object-fit: cover;
+  position: absolute;
+  top: 385px;
+  width: 28px;
+}
+
+.sreach-screem .____________________ {
+  background-color: transparent;
+  border: 0;
+  height: 35px;
+  left: 672px;
+  letter-spacing: 0;
+  line-height: 25px;
+  padding: 0;
+  position: absolute;
+  top: 391px;
+  white-space: nowrap;
+  width: 545px;
+}
